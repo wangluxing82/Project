@@ -1,0 +1,30 @@
+Library Borrow System - Summary Report
+Generated At : 2025-10-06 04:49:48 (+0700)
+App Version  : 2.0
+Encoding     : UTF-8 (fixed-length)
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+MemberID   | Membername                | Phone Number    | Bookname                                 | Borrow Date   | Due Date      | Return Date   | Status    
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+6806022610232 | Suthasinee Rodmin         | 0685746378      | -                                        | 2025-10-04    | 2025-10-18    | 2025-10-04    | คืนแล้ว   
+6806022610402 | lak Noigrat               | 0954764893      | 1.Fundamental Polymer Science            | 2025-10-04    | 2025-10-18    | -             | ยืมอยู่   
+              |                           |                 | 2.Inorganic Chemistry 2                  |               |               |               |          
+6806022610429 | Nattha Sanguansak         | 0574893746      | 1.Inorganic Chemistry 1                  | 2025-10-04    | 2025-10-18    | -             | ยืมอยู่   
+6806022610330 | Jetsada Kluainam          | 0949857364      | -                                        | 2025-10-04    | 2025-10-18    | 2025-10-04    | คืนแล้ว   
+6806022610348 | Pokkong Kosakunthanak     | 0584736548      | 1.Inorganic Chemistry 3                  | 2025-10-04    | 2025-10-18    | -             | ยืมอยู่   
+6806022610372 | Tiwakorn Hansaowhae       | 0497365712      | 1.Inorganic Chemistry 4                  | 2025-10-04    | 2025-10-18    | -             | ยืมอยู่   
+              |                           |                 | 2.General Chemistry 1                    |               |               |               |           
+6806022610399 | Aekphop Yoddee            | 0587446254      | -                                        | 2025-10-06    | 2025-10-20    | 2025-10-06    | คืนแล้ว   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Summary (Active Books Only)
+- Total Books    : 20
+- Active Books   : 20
+- Deleted Books  : 0
+- Borrowed Now   : 6
+- Available Now  : 14
+
+Borrow Statistics (Active only)
+- Most Borrowed Book : Fundamental Polymer Science (1 times)
+- Currently Borrowed : 4
+- Active Members     : 4

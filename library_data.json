@@ -1,0 +1,210 @@
+{
+  "books": {
+    "1001": {
+      "name": "electric circuit analysis",
+      "available": true
+    },
+    "1002": {
+      "name": "Data Structure",
+      "available": true
+    },
+    "1003": {
+      "name": "Generalb Chemistry 2",
+      "available": true
+    },
+    "1004": {
+      "name": "Fundamental Polymer Science",
+      "available": false
+    },
+    "1005": {
+      "name": "Inorganic Chemistry 2",
+      "available": false
+    },
+    "1006": {
+      "name": "Inorganic Chemistry 1",
+      "available": false
+    },
+    "1007": {
+      "name": "Multivariate Analysis",
+      "available": true
+    },
+    "1008": {
+      "name": "Computer Programming for Data Science",
+      "available": true
+    },
+    "1009": {
+      "name": "Inorganic Chemistry 3",
+      "available": false
+    },
+    "1010": {
+      "name": "Industrial Cost Analysis and Control",
+      "available": true
+    },
+    "1011": {
+      "name": "Inorganic Chemistry 4",
+      "available": false
+    },
+    "1012": {
+      "name": "General Chemistry 1",
+      "available": false
+    },
+    "1013": {
+      "name": "Computer Programming 1",
+      "available": true
+    },
+    "1014": {
+      "name": "Wireless Communications and Networks",
+      "available": true
+    },
+    "1015": {
+      "name": "Business Model Simulation",
+      "available": true
+    },
+    "1016": {
+      "name": "Business Mathematics",
+      "available": true
+    },
+    "1017": {
+      "name": "Theory of Computation",
+      "available": true
+    },
+    "1018": {
+      "name": "Multimedia and Animation Technology",
+      "available": true
+    },
+    "1019": {
+      "name": "Number Theory",
+      "available": true
+    },
+    "1020": {
+      "name": "conomics for Daily Life",
+      "available": true
+    }
+  },
+  "members": {
+    "6806022610232": {
+      "name": "Suthasinee Rodmin",
+      "phone": "0685746378"
+    },
+    "6806022610402": {
+      "name": "lak Noigrat",
+      "phone": "0954764893"
+    },
+    "6806022610429": {
+      "name": "Nattha Sanguansak",
+      "phone": "0574893746"
+    },
+    "6806022610330": {
+      "name": "Jetsada Kluainam",
+      "phone": "0949857364"
+    },
+    "6806022610348": {
+      "name": "Pokkong Kosakunthanak",
+      "phone": "0584736548"
+    },
+    "6806022610372": {
+      "name": "Tiwakorn Hansaowhae",
+      "phone": "0497365712"
+    },
+    "6806022610399": {
+      "name": "Aekphop Yoddee",
+      "phone": "0587446254"
+    },
+    "6806022610401": {
+      "name": "Phurin Pimson",
+      "phone": "0578463287"
+    },
+    "6806022610445": {
+      "name": "Jakkawan Waisati",
+      "phone": "0567842189"
+    },
+    "6806022610453": {
+      "name": "Wuttiphong Wongngai",
+      "phone": "0473659825"
+    },
+    "": {
+      "name": "",
+      "phone": ""
+    },
+    "6806022610102": {
+      "name": "sisilak noikrat",
+      "phone": "0604456387"
+    }
+  },
+  "borrows": [
+    {
+      "member_id": "6806022610232",
+      "book_ids": [],
+      "borrow_date": "2025-10-04",
+      "due_date": "2025-10-18",
+      "return_date": "2025-10-04",
+      "status": "คืนแล้ว"
+    },
+    {
+      "member_id": "6806022610402",
+      "book_ids": [
+        "1004",
+        "1005"
+      ],
+      "borrow_date": "2025-10-04",
+      "due_date": "2025-10-18",
+      "return_date": null,
+      "status": "ยืมอยู่"
+    },
+    {
+      "member_id": "6806022610429",
+      "book_ids": [
+        "1006"
+      ],
+      "borrow_date": "2025-10-04",
+      "due_date": "2025-10-18",
+      "return_date": null,
+      "status": "ยืมอยู่"
+    },
+    {
+      "member_id": "6806022610330",
+      "book_ids": [],
+      "borrow_date": "2025-10-04",
+      "due_date": "2025-10-18",
+      "return_date": "2025-10-04",
+      "status": "คืนแล้ว"
+    },
+    {
+      "member_id": "6806022610348",
+      "book_ids": [
+        "1009"
+      ],
+      "borrow_date": "2025-10-04",
+      "due_date": "2025-10-18",
+      "return_date": null,
+      "status": "ยืมอยู่"
+    },
+    {
+      "member_id": "6806022610372",
+      "book_ids": [
+        "1011",
+        "1012"
+      ],
+      "borrow_date": "2025-10-04",
+      "due_date": "2025-10-18",
+      "return_date": null,
+      "status": "ยืมอยู่"
+    },
+    {
+      "member_id": "6806022610399",
+      "book_ids": [],
+      "borrow_date": "2025-10-06",
+      "due_date": "2025-10-20",
+      "return_date": "2025-10-06",
+      "status": "คืนแล้ว"
+    },
+    {
+      "member_id": "6806022610102",
+      "book_ids": [],
+      "borrow_date": "2025-10-06",
+      "due_date": "2025-10-20",
+      "return_date": "2025-10-06",
+      "status": "คืนแล้ว"
+    }
+  ]
+}
